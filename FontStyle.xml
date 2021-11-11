@@ -1,0 +1,21 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+    <Font name="TichTichPayBlack" inherits="GameFontNormal" virtual="true">
+        <Color r ="0.13" g="0.15" b="0.16" />
+    </Font>
+    <Font name="TichTichPayBlue" inherits="GameFontNormalLarge" virtual="true">
+        <Color r ="0.45" g="0.45" b="0.85" />
+    </Font>
+    <Font name="TichTichPayGrey" inherits="GameFontNormal" virtual="true">
+        <Color r ="0.63" g="0.63" b="0.63" />
+    </Font>
+    <Font name="TichTichPayRed" inherits="GameFontNormal" virtual="true">
+        <Color r ="0.90" g="0" b="0" />
+    </Font>
+    <Font name="TichTichPayGreen" inherits="GameFontNormal" virtual="true">
+        <Color r ="0" g="0.90" b="0" />
+    </Font>
+    <Font name="TichTichPayWhite" inherits="GameFontNormal" virtual="true">
+        <Color r ="1" g="1" b="1" />
+    </Font>
+</Ui>

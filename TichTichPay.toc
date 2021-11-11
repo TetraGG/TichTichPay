@@ -1,0 +1,22 @@
+## Interface: 90100
+## Title: TichTichPay
+## Notes: Automate boost payrolls
+## Notes-frFR: Automatiser les paies de boost
+## Dependencies:
+## OptionalDeps:
+## LoadOnDemand: 0
+## SavedVariables: TichTichPayDB
+## SavedVariablesPerCharacter:
+## DefaultState: enabled
+## Author: Tetra
+## Version: 1.0.0
+## X-Website: https://tichtich.fr/
+
+ButtonStyle.xml
+FontStyle.xml
+
+Config.lua
+Db.lua
+Bank.lua
+Mail.lua
+Init.lua
